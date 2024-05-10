@@ -4,8 +4,8 @@ import { Avataar } from "./BlogCard"
 export const Appbar = ()=>{
     return(
         <div className="flex border-b justify-between px-10 py-3">
-            <Link to={"/blogs"} className="flex flex-col justify-center cursor-pointer ">
-            Medium
+            <Link to={"/blogs"} className="flex flex-col justify-center cursor-pointer text-3xl ">
+            Radio.com
             </Link>
 
             <div>
